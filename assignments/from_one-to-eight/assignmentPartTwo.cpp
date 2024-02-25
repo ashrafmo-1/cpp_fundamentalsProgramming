@@ -2,7 +2,7 @@
 
 /*
 قم بطباعة المطلوب كما في المثال
-يجب عليك إستخدام cout مرة واحدة فقط
+use "cout" one time only
 
 	Iam Learning Programming
 	With
