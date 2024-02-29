@@ -39,4 +39,3 @@ int main(){
     g = t = r = 20;
     cout << g;
 }
-
