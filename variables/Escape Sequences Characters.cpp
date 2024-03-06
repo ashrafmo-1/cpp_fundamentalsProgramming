@@ -25,7 +25,7 @@ int main()
 	cout << "hello, \"ashraf\"\n"; // make Escape after Character
 	cout << "hello, 'ashraf'\n";
 	cout << "hello,\t'ashraf'\n"; // make tap indentation
-	cout << "hello,\b'ashraf'\n"; // make bacl space
+	cout << "hello,\b'ashraf'\n"; // make back space
 	cout << "hello,\r'ashraf'\n"; // Carriage Return
 
 	return 0;

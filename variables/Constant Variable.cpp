@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-using namespace std;
 #define name "ashraf"
 
 int main()
